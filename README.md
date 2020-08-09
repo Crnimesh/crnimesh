@@ -9,7 +9,7 @@ About Me:
 - 👯 I’m looking to collaborate on: Java, Python
 - 🤔 I’m looking for help with: ML and Data Science||AI
 - 💬 Ask me about: anything you want
-- 📫 How to reach me: @pronimesh @urs.nimyes @im_nimyes
+- 📫 How to reach me: @im_nimyes on twitter
 - 😄 Pronouns: As my name
 - ⚡ looking for : Programmers Job
 -->
